@@ -1,7 +1,8 @@
 Solidity showcase
 
-* [UniswapV3 & Curve integration example](integrations)
-* Diamond Proxy example
-* Beacon proxy contracts creation example
-* Stargate bridge integration example
+* [UniswapV3 integration example](integrations/UniswapV3.sol)
+* [Curve integration example](integrations/Curve.sol)
+* [Diamond Proxy example](proxies/Diamond.sol)
+* [Beacon proxy contracts creation example](proxies/Beacon.sol)
+* [GMX integration example](integrations/GMX.sol)
 * [Onchain orderbook container example](orderbook/exchange.sol)
